@@ -46,11 +46,11 @@ Good luck!
    4. Reading training data and assigning column names
    5. Merge the test and training data to create one single data set
 3. Extracts the measurements on the mean and the standard deviation
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+   1. Get the vector of the columns where mean() and std() are stored *(Note: meanFreq() measurements are excluded)*
+   2. Create a tidy data set, with the specified measurements
+4. Use descriptive activity names
+5. Appropiately label the data set with descriptive variable names
+6. Create a 2nd data set *(finalDataSet.txt)*
 
 ## finalDataSet.txt
 "finalDataSet.txt" file is a text file containing the data set that has result from applying all the steps of this course project.
