@@ -35,7 +35,11 @@ Good luck!
 
 ## run_analysis.R
 "run_analysis.R" file is the script containing all the R instructions executed to accomplish the different steps required on this Course Project. In this file we will see how we have performed the following steps:
-
+0. Downloading and Unzipping the provided data sets for this project
+0.1 Create the directory to store the data sets
+0.2 Download the Course Project data
+0.3 Unzipp the downloaded sata sets
+1. Merging the test and training data sets to create one single data set
 
 ## finalDataSet.txt
 "finalDataSet.txt" file is a text file containing the data set that has result from applying all the steps of this course project.
