@@ -46,6 +46,11 @@ Good luck!
 2.4 Reading training data and assigning column names
 2.5 Merge the test and training data to create one single data set
 3. Extracts the measurements on the mean and the standard deviation
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 ## finalDataSet.txt
 "finalDataSet.txt" file is a text file containing the data set that has result from applying all the steps of this course project.
