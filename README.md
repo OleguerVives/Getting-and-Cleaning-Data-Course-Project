@@ -29,3 +29,17 @@ You should create one R script called run_analysis.R that does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Good luck!
+
+
+# Analysis files
+
+## run_analysis.R
+"run_analysis.R" file is the script containing all the R instructions executed to accomplish the different steps required on this Course Project. In this file we will see how we have performed the following steps:
+
+
+## finalDataSet.txt
+"finalDataSet.txt" file is a text file containing the data set that has result from applying all the steps of this course project.
+Is containing a tidy data set with the average of each variable (mean() and std()) for each activity and each subject.
+
+## Codebook.md
+"Codebook.md" file is containing a description of the variables that have been used while processing all the data before reaching the final result: "finalDataSet.txt" file.
