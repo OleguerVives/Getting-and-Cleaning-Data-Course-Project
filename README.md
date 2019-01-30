@@ -38,7 +38,7 @@ Good luck!
 0. Downloading and Unzipping the provided data sets for this project
 0.1 Create the directory to store the data sets
 0.2 Download the Course Project data
-0.3 Unzipp the downloaded sata sets
+0.3 Unzipp the downloaded data sets
 1. Merging the test and training data sets to create one single data set
 
 ## finalDataSet.txt
