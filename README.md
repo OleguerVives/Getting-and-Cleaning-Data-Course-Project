@@ -36,15 +36,15 @@ Good luck!
 ## run_analysis.R
 "run_analysis.R" file is the script containing all the R instructions executed to accomplish the different steps required on this Course Project. In this file we will see how we have performed the following steps:
 1. Downloading and Unzipping the provided data sets for this project
-   1.1 Create the directory to store the data sets
-   1.2 Download the Course Project data
-   1.3 Unzipp the downloaded data sets
+   1. Create the directory to store the data sets
+   2. Download the Course Project data
+   3. Unzipp the downloaded data sets
 2. Merging the test and training data sets to create one single data set
-   2.1 Reading "features.txt" list
-   2.2 Reading "activityLabels.txt"
-   2.3 Reading test data and assigning column names
-   2.4 Reading training data and assigning column names
-   2.5 Merge the test and training data to create one single data set
+   1. Reading "features.txt" list
+   2. Reading "activityLabels.txt"
+   3. Reading test data and assigning column names
+   4. Reading training data and assigning column names
+   5. Merge the test and training data to create one single data set
 3. Extracts the measurements on the mean and the standard deviation
 1. Item 1
 1. Item 2
